@@ -6,3 +6,44 @@
 - 📫 How to reach me: jaqneder@gmail.com
 - 🦋 Pronouns: She/Her
 - 🐱 Fun fact: I love cats and horror bocks!
+
+<h3 align="left">My technical competencies</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+</div>
+
+###
+
+<h3 align="left">Currently studying:</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/csharp/csharp-original.svg" height="40" alt= "c# logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+</div>
+
+<p align="center">
+          <a href="https://github-readme-stats.vercel.app/api?username=jaqueneder&show_icons=true&theme=gruvbox&hide_border=true">
+            <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=jaqueneder&show_icons=true&theme=gruvbox&hide_border=true" />
+            <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=jaqueneder&theme=gruvbox&hide_border=true" />
+          </a>
+</p> 
