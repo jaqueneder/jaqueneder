@@ -1,4 +1,4 @@
-<h3 align="center">Hi there 👋</h3>
+<h3 align="left">Hi there 👋</h3>
 
 - 🌱 I’m currently studying System Development
 - 🖥️ I'm not currently working, but I'm looking for an internship!
@@ -41,9 +41,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
 </div>
 
-###
+<br>
+<br>
 
-<p align="center">
+<p align="left">
     <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=jaqueneder&langs_count=6&theme=gruvbox&layout=compact&hide_border=true">
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaqueneder&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="jaqueneder:: Top Langs" /> 
     </a>
