@@ -17,17 +17,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
 </div>
 
 ###
 
-<h3 align="left">Currently studying at the college:</h3>
+<h3 align="left">Currently studying at the college</h3>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/csharp/csharp-original.svg" height="40" alt= "c# logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
@@ -40,7 +40,7 @@
   <img width="12" />
 </div>
 
-<h3 align="left">Currently studying independently:</h3>
+<h3 align="left">Currently studying independently</h3>
 
 ###
 
