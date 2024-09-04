@@ -41,6 +41,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
 </div>
 
+<br>
+
 <p align="left">
     <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=jaqueneder&langs_count=6&theme=gruvbox&layout=compact&hide_border=false">
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaqueneder&langs_count=6&theme=transparent&layout=compact&hide_border=false" alt="jaqueneder:: Top Langs" /> 
