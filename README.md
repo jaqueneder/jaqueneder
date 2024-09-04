@@ -43,6 +43,6 @@
 
 <p align="left">
     <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=jaqueneder&langs_count=6&theme=gruvbox&layout=compact&hide_border=false">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaqueneder&langs_count=6&theme=transparent&layout=compact&hide_border=true" alt="jaqueneder:: Top Langs" /> 
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaqueneder&langs_count=6&theme=transparent&layout=compact&hide_border=false" alt="jaqueneder:: Top Langs" /> 
     </a>
 </p>
