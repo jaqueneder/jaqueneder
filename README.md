@@ -1,7 +1,7 @@
 <h3 align="left">Hi there 👋</h3>
 
 - 🌱 I’m currently studying System Development
-- 🖥️ I'm not currently working, but I'm looking for an internship!
+- 🖥️ I'm currently working at Instituto Eldorado with React
 - 🔮 I’m looking to collaborate on Front and Backend development
 - 📫 How to reach me: jaqneder@gmail.com
 - 🦋 Pronouns: She/Her
