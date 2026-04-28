@@ -1,8 +1,7 @@
 <h3 align="left">Hi there 👋</h3>
 
 - 🌱 I’m currently studying System Development
-- 🖥️ I worked at Instituto Eldorado with React during the 2025 Summer Internship
-- 🔮 I’m looking to collaborate on Front and Backend development
+- 📷 I’m currently working at Instituto Eldorado with Embedded Android focused on Camera HAL
 - 📫 How to reach me: jaqneder@gmail.com
 - 🦋 Pronouns: She/Her
 - 🐱 Fun fact: I love cats and horror bocks!
@@ -12,11 +11,11 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/android.svg" height="30" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/kotlin.svg" height="30" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/cplusplus.svg" height="30" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
 </div>
